@@ -17,7 +17,9 @@ The Pathway
 We are laying out a visible pathway for a better future, accessible through the exciting realm of esports:
 
 Accessibility: Making esports a tool for change, accessible to the youth in Kenya and around the world.
+
 Real-World Connection: Bridging in-game achievements with real-world career opportunities.
+
 KPI Integration: Using Key Performance Indicators to connect gaming patterns to potential career paths.
 
 Our Approach
