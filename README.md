@@ -14,7 +14,9 @@ Our vision is deeply rooted in:
        Economic Upliftment: Fostering sustainable community impact through technology and gaming.
 
 The Pathway
-We are laying out a visible pathway for a better future, accessible through the exciting realm of esports:
+
+We are laying out a visible, visual and focused pathway for a better future, accessible through the exciting realm of esports:
+
 
 Accessibility: Making esports a tool for change, accessible to the youth in Kenya and around the world.
 
