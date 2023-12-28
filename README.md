@@ -24,7 +24,9 @@ KPI Integration: Using Key Performance Indicators to connect gaming patterns to 
 
 Our Approach
 Innovative Use of AI: Employing artificial intelligence to enhance gaming experiences and career mapping.
+
 Strategic Partnerships: Collaborating with global and local entities to expand our reach and impact.
+
 Community Focused: Building a community of gamers who are not just playing, but growing and learning.
 
 Get Involved
