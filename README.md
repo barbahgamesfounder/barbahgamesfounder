@@ -7,7 +7,7 @@ At BARBAH Games, we believe in the power of esports as a vehicle for change, off
 
 Our vision is deeply rooted in:
 
-       Empowerment: Leveraging the dynamic world of esports to open up new opportunities for young people.
+       Empowerment: Leveraging the dynamic world of esports to open up new opportunities for e-athletes.
 
        Education: Integrating gaming with skill development for real-world applications.
 
