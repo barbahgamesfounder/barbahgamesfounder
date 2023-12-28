@@ -19,10 +19,12 @@ We are laying out a visible pathway for a better future, accessible through the 
 Accessibility: Making esports a tool for change, accessible to the youth in Kenya and around the world.
 Real-World Connection: Bridging in-game achievements with real-world career opportunities.
 KPI Integration: Using Key Performance Indicators to connect gaming patterns to potential career paths.
+
 Our Approach
 Innovative Use of AI: Employing artificial intelligence to enhance gaming experiences and career mapping.
 Strategic Partnerships: Collaborating with global and local entities to expand our reach and impact.
 Community Focused: Building a community of gamers who are not just playing, but growing and learning.
+
 Get Involved
 Whether you're a gamer, developer, educator, or enthusiast, there's a place for you here. Explore our projects, contribute, and become a part of this exciting journey towards change.
 
