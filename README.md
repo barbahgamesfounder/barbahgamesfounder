@@ -1,6 +1,6 @@
 Welcome to BARBAH Games & VR.
 
-Hello, I am Muriuki Andrew Wanjohi, the visionary founder behind BARBAH Games and VR. This repository is more than just a collection of projects; it's a gateway to understanding our mission and the transformative journey we are embarking on in the world of esports, particularly in Kenya & East Africa.
+Hello, I am Muriuki Andrew Wanjohi, the visionary founder behind BARBAH Games. This repository is more than just a collection of projects; it's a gateway to understanding our mission and the transformative journey we are embarking on in the world of esports, particularly in Kenya & East Africa.
 
 BARBAH Games - Our Vision
 At BARBAH Games, we believe in the power of esports as a vehicle for change, offering a new pathway to a better life for the youth.
