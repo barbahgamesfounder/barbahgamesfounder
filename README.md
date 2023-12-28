@@ -6,8 +6,11 @@ BARBAH Games - Our Vision
 At BARBAH Games, we believe in the power of esports as a vehicle for change, offering a new pathway to a better life for the youth. Our vision is deeply rooted in:
 
 Empowerment: Leveraging the dynamic world of esports to open up new opportunities for young people.
+
 Education: Integrating gaming with skill development for real-world applications.
+
 Economic Upliftment: Fostering sustainable community impact through technology and gaming.
+
 The Pathway
 We are laying out a visible pathway for a better future, accessible through the exciting realm of esports:
 
