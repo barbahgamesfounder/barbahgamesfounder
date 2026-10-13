@@ -1,43 +1,104 @@
-Welcome to BARBAH Games & VR.
+```
+● ● ●  ~/profile
 
-Hello, I am Muriuki Andrew Wanjohi, the visionary founder behind BARBAH Games. This repository is more than just a collection of projects; it's a gateway to understanding our mission and the transformative journey we are embarking on in the world of esports, particularly in Kenya & East Africa.
+man barbahgamesfounder
 
-BARBAH Games - Our Vision
-At BARBAH Games, we believe in the power of esports as a vehicle for change, offering a new pathway to a better life for the youth.
+NAME
+    barbahgamesfounder - Andrew Muriuki Wanjohi, Founder & CEO, BARBAH Games / MetaGlobe
 
-Our vision is deeply rooted in:
+SYNOPSIS
+    barbahgamesfounder [--hospitality] [--esports] [--kenya]
 
-       Empowerment: Leveraging the dynamic world of esports to open up new opportunities for e-athletes.
+DESCRIPTION
+    20 years running five-star rooms - trained under Horst Schulze (Ritz-Carlton)
+    and George McKerrow (Ted's Montana Grill). Left Atlanta in Jan 2025 to build
+    the infrastructure East African esports doesn't have yet: credentialing,
+    ESG data, school programs, business tools for clubs.
 
-       Education: Integrating gaming with skill development for real-world applications.
+    Gaming is already teaching career-grade skills. Nobody's measuring it.
+    That's the company.
 
-       Economic Upliftment: Fostering sustainable community impact through technology and gaming.
+OPTIONS
+    --hire          BARBAH Games (Atlanta C-corp) x MetaGlobe (Nairobi)
+    --stack         EduPlay, Club in a Box, MetaTwin
+    --coffee        yes, actually
 
-The Pathway
+EXIT STATUS
+    0   the room is running itself
+    1   it wasn't, and now it is
 
-We are laying out a visible, visual and focused pathway for a better future, accessible through the exciting realm of esports:
+AUTHOR
+    Andrew. Nairobi, by way of Atlanta.
+```
 
+[![Status](https://img.shields.io/badge/status-building-brightgreen)]()
+[![Based in](https://img.shields.io/badge/based_in-Nairobi%2C_UTC%2B3-blue)]()
+[![Focus](https://img.shields.io/badge/focus-esports_infrastructure-orange)]()
+[![Website](https://img.shields.io/badge/web-barbahgames.gg-purple)](https://www.barbahgames.gg)
+[![X](https://img.shields.io/badge/X-barbah__games-black)](https://twitter.com/barbah_games)
 
-Accessibility: Making esports a tool for change, accessible to the youth in Kenya and around the world.
+---
 
-Real-World Connection: Bridging in-game achievements with real-world career opportunities.
+## flagships
 
-KPI Integration: Using Key Performance Indicators to connect gaming patterns to potential career paths.
+**[Metaglobe-website-](https://github.com/barbahgamesfounder/Metaglobe-website-)**
+The MetaGlobe Technologies site. React/Vite, shipped on Cloudflare Workers, hiring pipeline wired straight to Resend - because a careers page that doesn't route submissions anywhere isn't a careers page.
+`TypeScript` · `Cloudflare Workers` · `Resend`
 
-Our Approach
-Innovative Use of AI: Employing artificial intelligence to enhance gaming experiences and career mapping.
+**[NairobiSportsExpo](https://github.com/barbahgamesfounder/NairobiSportsExpo)**
+nairobiesportsexpo.co.ke - multi-page Cloudflare Pages site with waitlist and express-interest capture wired to Resend, built to swap into a real CRM later without touching the form payloads.
+`HTML` · `Cloudflare Pages Functions`
 
-Strategic Partnerships: Collaborating with global and local entities to expand our reach and impact.
+**[amplify-nextjs-starter-app](https://github.com/barbahgamesfounder/amplify-nextjs-starter-app)**
+Forked AWS Amplify + Next.js starter - kept on hand for the next build that needs a fullstack scaffold fast.
+`TypeScript` · `fork`
 
-Community Focused: Building a community of gamers who are not just playing, but growing and learning.
+**[barbahgamesfounder](https://github.com/barbahgamesfounder/barbahgamesfounder)**
+This repo. The config behind the profile you're reading.
+`config`
 
-Get Involved
-Whether you're a gamer, developer, educator, or enthusiast, there's a place for you here. Explore our projects, contribute, and become a part of this exciting journey towards change.
+---
 
-Contact
-For collaborations, partnerships, or any queries, feel free to reach out.
+## principles
 
-<!---
-barbahgamesfounder/barbahgamesfounder is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+```
+1  measure what the game already teaches.
+   the skill exists before the credential does.
+
+2  the room is the system.
+   20 years of hospitality ops taught pattern recognition before code did.
+
+3  build the pipeline, not the pilot.
+   one tournament is a story. a credential is infrastructure.
+
+4  local proof, continental thesis.
+   Kenya is the proof of concept. East Africa is the market.
+```
+
+## tech stack
+
+**Product** · EduPlay (schools) · Club in a Box (WhatsApp/M-Pesa/eTIMS SaaS) · MetaTwin (credentials)
+**Infra** · Cloudflare Pages/Workers · Resend · Supabase
+**Data** · BESI Token system - ESG reporting aligned to GRI / Kenya's NSE mandate
+
+## questions people actually ask
+
+**are you a dev or a founder who codes?**
+Founder who ships. The repos are tools for the mission, not a portfolio.
+
+**why Kenya?**
+Atlanta is the US esports capital. Kenya is where that playbook meets a market nobody's built the rails for yet.
+
+**what's BARBAH stand for?**
+Bringing Atlanta's Resources to Boost African Hubs.
+
+---
+
+`barbahgames.gg` · `MetaGlobe Technologies, Nairobi` · `BARBAH Games, Atlanta`
+
+```
+$ ./build.sh --east-africa --full-send
+✓ founder, visionary, CEO
+✓ Nairobi, UTC+3
+✓ building in public, selectively
+```
